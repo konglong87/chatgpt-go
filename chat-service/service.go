@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	chatgpt "github.com/u2takey/chatgpt-go"
+	chatgpt "github.com/konglong87/chatgpt-go"
 )
 
 var botCache = sync.Map{}

@@ -1,10 +1,10 @@
-module github.com/u2takey/chatgpt-go/chat-service
+module github.com/konglong87/chatgpt-go/chat-service
 
 go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.9.0
-	github.com/u2takey/chatgpt-go v0.0.0-20230227131746-2eca6ccf13f3
+	github.com/konglong87/chatgpt-go main
 )
 
 require (

@@ -1,4 +1,4 @@
-module github.com/u2takey/chatgpt-go
+module github.com/konglong87/chatgpt-go
 
 go 1.18
 
